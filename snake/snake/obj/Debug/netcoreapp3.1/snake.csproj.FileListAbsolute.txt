@@ -10,3 +10,4 @@ E:\snake.git\snake\snake\obj\Debug\netcoreapp3.1\snake.csproj.CoreCompileInputs.
 E:\snake.git\snake\snake\obj\Debug\netcoreapp3.1\snake.dll
 E:\snake.git\snake\snake\obj\Debug\netcoreapp3.1\snake.pdb
 E:\snake.git\snake\snake\obj\Debug\netcoreapp3.1\snake.genruntimeconfig.cache
+E:\snake.git\snake\snake\obj\Debug\netcoreapp3.1\snake.csprojAssemblyReference.cache
